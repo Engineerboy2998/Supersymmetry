@@ -3,8 +3,7 @@
     "betterquesting:10": {
       "desc:8": "susy.quest.db.324.desc",
       "icon:10": {
-        "Count:3": 1,
-        "Damage:2": 85,
+        "Damage:2": 31016,
         "id:8": "gregtech:meta_dust"
       },
       "name:8": "susy.quest.db.324.title"
@@ -13,11 +12,10 @@
   "questID:3": 324,
   "tasks:9": {
     "0:10": {
-      "index:3": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 85,
+          "Damage:2": 31016,
           "id:8": "gregtech:meta_dust"
         }
       },
